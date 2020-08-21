@@ -1,0 +1,22 @@
+.red{
+    font-weight: bold;
+    font-size:30;
+    color:red;
+}
+.green{
+    font-size: 30;
+    color:green;}
+    @font-face {
+        font-family:russone;
+        src:url(font/russonone-regular.ttf)
+
+
+
+    }
+
+#div{
+        font-family: Arial, Helvetica, sans-serif;
+        color:red;
+    }
+    h2,ul {color: red;}
+    ul>li{font-weight: bold;}
